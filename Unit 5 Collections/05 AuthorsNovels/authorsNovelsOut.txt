@@ -1,0 +1,14 @@
+DOSTOEVSKI:  Crime and Punishment 
+DOSTOEVSKI:  The Possessed 
+DOSTOEVSKI:  The Brothers Karamazov 
+DOSTOEVSKI:  The Grand Inquisitor 
+FLAUBERT:  Madame Bovary 
+FLAUBERT:  A Simple Heart 
+FLAUBERT:  Memoirs of a Madman 
+FLAUBERT:  Sentimental Education 
+STENDHAL:  The Red and the Black 
+TOLSTOY:  Anna Karenina 
+TOLSTOY:  War and Peace 
+TOLSTOY:  The Death of Ivan Illyich 
+TOLSTOY:  The Kreutzer Sonata 
+
